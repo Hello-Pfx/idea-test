@@ -17,6 +17,7 @@ public class ClassTwo extends ClassOne{
         System.out.println(two.num);
         System.out.println(two.getNum());
         System.out.println();
+        System.out.println("已修改");
     }
 
 
