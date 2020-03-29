@@ -16,5 +16,8 @@ public class ClassTwo extends ClassOne{
         two.computer();
         System.out.println(two.num);
         System.out.println(two.getNum());
+        System.out.println();
     }
+
+
 }
